@@ -2,7 +2,7 @@
 app:
   applicationId: eaf31b60-f714-47c2-aa52-f8bd5b032742 # (required)
   env: Development
-  host: http://vuln-graphql:3000
+  host: http://localhost:3000
   graphqlConf:
     enabled: true
   autoPolicy: true
